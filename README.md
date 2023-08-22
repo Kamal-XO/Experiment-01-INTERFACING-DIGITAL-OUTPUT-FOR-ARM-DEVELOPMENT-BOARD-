@@ -163,10 +163,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 ```
 ## Output  :
- 
- 
- 
- 
+ ![OUTPUT](./pmc123.jpg)
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
